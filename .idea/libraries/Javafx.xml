@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Javafx">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Javafx/Javafx.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
